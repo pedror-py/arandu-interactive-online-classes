@@ -1,5 +1,3 @@
-README
-
 # Arandu - Plataforma de Ensino Síncrono Interativa com Ferramentas de IA
 
 Este projeto pessoal foi desenvolvido com o objetivo de aprendizado orientado por um projeto, abrangendo todas as etapas do desenvolvimento fullstack. Esta plataforma de ensino síncrono foi desenvolvida com foco em interatividade e utilizando diversas tecnologias modernas como de ferramentas de IA para proporcionar uma experiência de aprendizado rica e envolvente.
