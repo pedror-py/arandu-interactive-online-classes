@@ -9,7 +9,7 @@ import { getFunctions, connectFunctionsEmulator } from 'firebase/functions'
 # export const firebaseUI = require('firebaseui')
 
 const firebaseConfig = {
-	apiKey: "AIzaSyDKiIeMazWW4F232WrY11DAVI18oyf863s",
+	apiKey: "######",
 	authDomain: "free-educ-app.firebaseapp.com",
 	projectId: "free-educ-app",
 	storageBucket: "free-educ-app.appspot.com",
